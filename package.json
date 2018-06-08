@@ -1,0 +1,28 @@
+{
+  "name": "extra-credit-assignment-1-galacticos",
+  "version": "1.0.0",
+  "description": "Simple SpreadSheet using vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neu-mis-info6150-spring-2018/extra-credit-assignment-1-galacticos.git"
+  },
+  "author": "Karan Racca",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neu-mis-info6150-spring-2018/extra-credit-assignment-1-galacticos/issues"
+  },
+  "homepage": "https://github.com/neu-mis-info6150-spring-2018/extra-credit-assignment-1-galacticos#readme",
+  "dependencies": {
+    "tableexport": "^5.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.0.1",
+    "webpack-cli": "^2.0.9"
+  }
+}
